@@ -2,4 +2,3 @@ amx-desktop -  by crapsoft: A console-based desktop environment.
 jade-mm - by crapsoft: A console based main menu
 aurorium-desktop - by crapsoft/Conhosticek1234: A very minimal and lightweight desktop environment (Terminal based)
 crapsoft-tools - by crapsoft: A set of console-based tools for Lunathyst.
-sunstoneoffice - by crapsoft: A  console-based office suite that works even without Xorg
