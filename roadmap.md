@@ -14,7 +14,13 @@ a major version of the os will be released every few weeks to every few months
 
 ### Quick update for Lunathyst 1 - build 15.u3 - update for the jade menu, reboot option
 
-## Lunathyst 1 R1 codename Orion, version 1.0, build 16, revision/updated release 1 - Better and modular settings, notification center, and LunUI API v2 - better TUI API, made usable for the general public
+## Lunathyst 1 R1 codename Orion, version 1.0, build 16, revision/updated release 1 mainstream support - Better and modular settings, notification center, and LunUI API v2 - better TUI API, made usable for the general public
+
+## Lunathyst 1 R2 codename Orion, version 1.0, build 17, revision/updated release 2 mainstream support - Desktop ricing updates
+
+## Lunathyst 1 R3 codename Orion, version 1.0, build 18, revision/updated release 3 extended support - simpler and more automated updates and APIs backported
+
+## Lunathyst 1 R4 codename Orion, version 1.0, build 19, revision/updated release 4 extended support - Apps don't have to carry their own APIs pqackaged in
 
 # Lunathyst - New release roadmap:
 # Lunathyst 2 codename Nebula, build 40 - Desktop takes up full screen with resizeable grid, favourite and all apps in main menu, light/dark mode, ftrs API for system features, new default wallpaper - cacti desert
